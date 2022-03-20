@@ -60,7 +60,7 @@ export default {
 };
 </script>
 
-<style lang='less'>
+<style lang='less' scoped>
 .pre_box {
   margin-left: 0;
   height: 100%;
